@@ -76,3 +76,6 @@ EV/
 Push `app.py`, `ev_range_svr_pipeline.joblib`, `requirements.txt`, `README.md`, and `.gitignore` to the GitHub repository. In Streamlit Community Cloud, select that repository and set the main file path to `app.py`.
 
 The requirements pin the verified package versions, including `scikit-learn==1.6.1`, which is required to load this saved pipeline reliably. The model file must remain in the repository root with the exact lowercase filename `ev_range_svr_pipeline.joblib`.
+
+Live Demo:
+https://ev-range-prediction-5quiycdpj8khgu6pdba4w3.streamlit.app/
